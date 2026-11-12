@@ -5,3 +5,6 @@ data/benchmark/queries.sha256 -text
 *.npz binary
 *.pt binary
 *.png binary
+Makefile linguist-detectable=false
+*.mk linguist-detectable=false
+*.mak linguist-detectable=false
